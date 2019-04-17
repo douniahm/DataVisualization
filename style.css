@@ -1,0 +1,6 @@
+canvas{
+    border: 1px dashed gray;
+}
+table, th, tr{
+    border:1px black solid;
+}

@@ -1,4 +1,4 @@
-# Data Visualizaton
+# Data visualization
 Une application pour la visualisation des données
 
 ## Application
